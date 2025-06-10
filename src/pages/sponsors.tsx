@@ -8,7 +8,7 @@ export default function Sponsors(): ReactNode {
     return (
         <Layout
             title={siteConfig.title}
-            description="FIRST Slovenia supporters">
+            description="𝐹𝐼𝑅𝑆𝑇 Slovenia supporters">
             <main>
                 <div className="container" style={{paddingTop: "20px"}}>
                     <h1>{translate({id: "sponsors.title", message: "Sponsors"})}</h1>

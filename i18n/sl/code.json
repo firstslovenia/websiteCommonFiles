@@ -326,7 +326,7 @@
     "message": "Kaj potrebujemo?"
   },
   "mentor.needed-hardware.content": {
-    "message": "Za razliko od FLL je pri FIRST Tech Challenge-u izbira komponent načeloma prepuščena ekipi. Omejene so le kontrolna enota (Control Hub), motorji, baterija in voznikova konzola (Driver Hub)."
+    "message": "Za razliko od FLL je pri 𝐹𝐼𝑅𝑆𝑇 Tech Challenge-u izbira komponent načeloma prepuščena ekipi. Omejene so le kontrolna enota (Control Hub), motorji, baterija in voznikova konzola (Driver Hub)."
   },
   "mentor.more-info.title": {
     "message": "Kje prejmemo več informacij?"
@@ -347,10 +347,10 @@
     "message": "Kakšni so vstopni stroški?"
   },
   "mentor.cost.calculator": {
-    "message": "Mentorji FIRST Slovenia smo pripravili kalkulator stroškov"
+    "message": "Mentorji 𝐹𝐼𝑅𝑆𝑇 Slovenija smo pripravili kalkulator stroškov"
   },
   "home.title": {
-    "message": "𝐹𝐼𝑅𝑆𝑇 Tech Slovenia"
+    "message": "𝐹𝐼𝑅𝑆𝑇 Tech Slovenija"
   },
   "home.tagline": {
     "message": "To inspire and solve challenges through robotics"
@@ -371,10 +371,10 @@
     "message": "Kaj počnemo?"
   },
   "home.what-we-do.fgc": {
-    "message": "Vsakoletno mednarodno tekmovanje FIRST Global Challenge, ki pri skoraj dva tisoč mladih (letno!) vzbuja strast do STEM, je dobrodelno tekmovanje iz robotike z namenom mreženja, povezovanja dijakov z različnimi ozadji, jeziki, verstvi in običaji, da sodelujejo med seboj za nek skupen cilj. \nDeluje tako, da ima vsaka država svojo reprezentančno ekipo, ki celo poletje sestavlja robota na določeno temo in se potem jeseni pomeri na tekmovanju proti drugim ekipam.\nZa dodatno razlago si lahko ogledate spletno stran FIRST Global Challenge.\n\nMed drugim FIRST Global:\n<ul>\n<li>motivira dijake in mentorje (študente), da se naučijo potrebnih veščin za odkrivanje nečesa novega, da bodo dobro vplivali na ta svet!</li>\n<li>si prizadeva prepričati vlade in organizacije sveta, da podpirajo izobraževanje STEM.</li>\n</ul>"
+    "message": "Vsakoletno mednarodno tekmovanje 𝐹𝐼𝑅𝑆𝑇 Global Challenge, ki pri skoraj dva tisoč mladih (letno!) vzbuja strast do STEM, je dobrodelno tekmovanje iz robotike z namenom mreženja, povezovanja dijakov z različnimi ozadji, jeziki, verstvi in običaji, da sodelujejo med seboj za nek skupen cilj. \nDeluje tako, da ima vsaka država svojo reprezentančno ekipo, ki celo poletje sestavlja robota na določeno temo in se potem jeseni pomeri na tekmovanju proti drugim ekipam.\nZa dodatno razlago si lahko ogledate spletno stran 𝐹𝐼𝑅𝑆𝑇 Global Challenge.\n<br />\nMed drugim 𝐹𝐼𝑅𝑆𝑇 Global:\n<ul>\n<li>motivira dijake in mentorje (študente), da se naučijo potrebnih veščin za odkrivanje nečesa novega, da bodo dobro vplivali na ta svet!</li>\n<li>si prizadeva prepričati vlade in organizacije sveta, da podpirajo izobraževanje STEM.</li>\n</ul>"
   },
   "home.what-we-do.ftc": {
-    "message": "Znan tudi kot FTC, se to tekmovanje osredotoča na zahtevnejše izzive, ki zahtevajo več izkušenj kot FGC.Več o tekmovanju lahko preberete na tej strani."
+    "message": "Vsakoletno regijsko in svetovno tekmovanje 𝐹𝐼𝑅𝑆𝑇 Tech Challenge, ki vključuje več kot 60 tisoč mladih letno, je tekmovanje s ciljem nadaljnjega izobraževanja dijakov s področja STEM. Izzivi so težji kot pri FGC, vendar so posledično tudi bolj zabavni in poučni. Več si lahko preberete na naši spletni strani <a href=\"https://firsttech.si\">𝐹𝐼𝑅𝑆𝑇 Tech Challenge Slovenija</a> and on the <a href=\"https://firstinspires.org\">𝐹𝐼𝑅𝑆𝑇 Inspires</a>."
   },
   "home.donations.title": {
     "message": "Donacije in sponzorstva"
@@ -384,5 +384,8 @@
   },
   "contact.title": {
     "message": "Kontaktirajte nas"
+  },
+  "home.what-we-do.fgc.video.current": {
+    "message": "Tema letošnjega tekmovanja, ki bo v <em>Panami od 29. oktobra do 1. novembra.</em>"
   }
 }

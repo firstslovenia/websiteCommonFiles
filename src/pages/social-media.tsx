@@ -8,14 +8,14 @@ export default function Contact(): ReactNode {
     return (
         <Layout
             title={siteConfig.title}
-            description="FIRST Slovenia Social media profiles">
+            description="𝐹𝐼𝑅𝑆𝑇 Slovenia Social media profiles">
             <main>
                 <div className="container" style={{ paddingTop: "20px" }}>
                     <h1>{translate({id:"social-media.title", message:"Social media"})}</h1>
                     <h1 style={{ textAlign: "center" }}>Instagram</h1>
                     <div style={{ display: "flex", gap: "20px", alignItems: "center", justifyContent: "center", textAlign: "center" }}>
                         <div style={{ justifyContent: "center" }}>
-                            <h2><em>FIRST</em> Slovenia</h2>
+                            <h2><em>𝐹𝐼𝑅𝑆𝑇</em> Slovenia</h2>
                             <a href="https://www.instagram.com/first.slovenia">
                                 <img src="img/IGlogo.png" style={{ height: "20vw", maxHeight: "200px" }} />
                             </a>
