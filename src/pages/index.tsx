@@ -54,12 +54,12 @@ export default function Home(): ReactNode {
                         `})}}></p>
 
                         <h3 dangerouslySetInnerHTML={{__html: translate({id: "home.what-we-do.fgc.video.current", message: "Theme for this year's challenge, held in <em>Panama City from 29th October to 1st November</em>"})}}></h3>
-                        <iframe width="560" height="315" src="https://www.youtube.com/embed/C81IOjfVa3I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                        <center>
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/C81IOjfVa3I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                        </center>
 
                         <h2>𝐹𝐼𝑅𝑆𝑇 Tech Challenge</h2>
-                        <center>
-                            <p dangerouslySetInnerHTML={{__html: translate({id: "home.what-we-do.ftc", message: "Series of regional qualifiers and world championship, 𝐹𝐼𝑅𝑆𝑇 Tech Challenge, which inspires almost 100 thousand students annually, is a competition with the goal of further educating high school students in the fields of STEM. The challenges are harder than in FGC, but consequently also more fun and educational.<br />You can read more on our website <a href=\"https://firsttech.si\">𝐹𝐼𝑅𝑆𝑇 Tech Challenge Slovenia</a> and on the <a href=\"https://firstinspires.org\">𝐹𝐼𝑅𝑆𝑇 Inspires</a> website."})}}></p>
-                        </center>
+                        <p dangerouslySetInnerHTML={{__html: translate({id: "home.what-we-do.ftc", message: "Series of regional qualifiers and world championship, 𝐹𝐼𝑅𝑆𝑇 Tech Challenge, which inspires almost 100 thousand students annually, is a competition with the goal of further educating high school students in the fields of STEM. The challenges are harder than in FGC, but consequently also more fun and educational.<br />You can read more on our website <a href=\"https://firsttech.si\">𝐹𝐼𝑅𝑆𝑇 Tech Challenge Slovenia</a> and on the <a href=\"https://firstinspires.org\">𝐹𝐼𝑅𝑆𝑇 Inspires</a> website."})}}></p>
 
                         <h1>{translate({id: "home.donations.title", message: "Donations and sponsorships"})}</h1>
                         <p dangerouslySetInnerHTML={{__html: translate({id: "home.donations.content", message: "Application fees and travel expenses for the team are quite substantial, so we’re looking to raise money from donors and sposnors. If you’d like to help us out, please reach out to the following email <a href=\"mailto:info@firstglobal.si\">info@firstglobal.si</a>. It’d really help us out! To see who our current sponsors and donors are visit the page with the list of our supporters."})}}></p>
