@@ -32,7 +32,6 @@ export default function Home(): ReactNode {
                 <section>
                     <div className="container" style={{paddingTop: "20px"}}>
                         <h1>{translate({id:"home.who-are-we.title", message:"Who are we?"})}</h1>
-                        "message": "𝐹𝐼𝑅𝑆𝑇 Slovenija smo skupina dijakov, ki rada izdeluje robote in se z njihovo pomočjo sooča s sočnimi izzivi. Zastopamo Slovenijo na mednarodnih tekmovanjih robotike in potrebujemo vso pomoč, ki jo lahko dobimo!"
 
                         <p dangerouslySetInnerHTML={{__html: translate({id:"home.who-are-we.content", message:"𝐹𝐼𝑅𝑆𝑇 Slovenia is a group of high school students and mentors who like to build robots and with their help confront jucy challanges. <em>We</em> represent the country of Slovenia in international robotics competitions and we need all the help we can get."})}}></p>
 
